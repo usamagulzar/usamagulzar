@@ -1,0 +1,47 @@
+name: Generate Contribution Graph Art
+
+on:
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allows manual trigger
+  workflow_dispatch:
+
+  # Run on every push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generate the falling-tetromino contribution graph
+      # palette: "auto" embeds a light/dark CSS media query directly in the SVG,
+      # so a single file adapts to the viewer's GitHub theme automatically.
+      - name: Generate contribution-graph-tetrominoes.svg
+        uses: leereilly/contribution-graph-art@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          animation_mode: "tetromino"
+          tetromino_count: "5"
+          palette: "auto"
+          output_path: dist/contribution-graph-tetrominoes.svg
+
+      # Push the generated file to the output branch
+      - name: Push contribution graph to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

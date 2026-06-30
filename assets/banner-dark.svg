@@ -1,0 +1,24 @@
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+  <rect x="0" y="0" width="800" height="280" rx="10" fill="#0d1117" />
+  <rect x="0.5" y="0.5" width="799" height="279" rx="10" fill="none" stroke="#30363d" stroke-width="1" />
+
+  <rect x="0" y="0" width="800" height="38" rx="10" fill="#161b22" />
+  <rect x="0" y="28" width="800" height="10" fill="#161b22" />
+  <line x1="0" y1="38" x2="800" y2="38" stroke="#30363d" stroke-width="1" />
+
+  <circle cx="24" cy="19" r="6" fill="#ff5f56" />
+  <circle cx="44" cy="19" r="6" fill="#ffbd2e" />
+  <circle cx="64" cy="19" r="6" fill="#27c93f" />
+  <text x="400" y="24" font-size="13" fill="#8b949e" text-anchor="middle">usama@seecs — zsh</text>
+
+  <g font-size="16">
+    <text x="28" y="74"><tspan fill="#58a6ff">usama@seecs</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">whoami</tspan></text>
+    <text x="28" y="100" fill="#7ee787">Usama Gulzar — CS undergrad @ SEECS, NUST '29</text>
+
+    <text x="28" y="142"><tspan fill="#58a6ff">usama@seecs</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">cat focus.txt</tspan></text>
+    <text x="28" y="168" fill="#7ee787">Browser-native systems · applied cryptography · WebRTC</text>
+
+    <text x="28" y="210"><tspan fill="#58a6ff">usama@seecs</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">echo $STATUS</tspan></text>
+    <text x="28" y="236" fill="#7ee787">Open to internships — building in public<tspan fill="#7ee787" opacity="1"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />_</tspan></text>
+  </g>
+</svg>
