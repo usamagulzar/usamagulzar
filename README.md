@@ -6,28 +6,36 @@
 
 Building browser-native systems, applied cryptography, and real-time networking tools.
 
-![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/usamagulzar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamagulzarpk)
+[![Email](https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white)](mailto:ugulzar.pk@gmail.com)
 
 </div>
 
 ---
 
-### About
+### About Me
 
-I like building complete software, not assignments — something isn't done until it works end-to-end and someone other than me can use it. I'd rather spend a weekend automating a task away forever than do it by hand once a week for a semester. Open to internships and collaboration on systems, security, or front-end projects — pinned repos below show whatever I'm currently building.
+I'm a Computer Science undergraduate at **SEECS, NUST**, with a habit of shipping complete, production-quality software on my own — not because a class requires it, but because something feels unfinished until it actually works end-to-end and someone other than me can use it.
 
-### Highlights
+> I'd rather spend a weekend automating something away forever than do it by hand once a week for a semester.
 
-<div align="center">
+- 🎓 BS Computer Science @ SEECS, NUST, Islamabad — Class of 2029
+- 🧠 Top national-percentile scorer across Pakistan's major university admission tests
+- 🛠️ Comfortable across the stack: front-end engineering, browser extension APIs, P2P networking, applied cryptography, and digital logic design
+- 🔭 Always building something — check the **pinned repos** below for whatever I'm currently shipping
+- 💼 Open to internships and collaboration on interesting systems / security / front-end projects
 
-![NAT](https://img.shields.io/badge/NAT-99.71st_Percentile-24292F?style=flat-square)
-![LAT](https://img.shields.io/badge/LAT-Rank_%231_Pakistan-24292F?style=flat-square)
-![ECAT](https://img.shields.io/badge/ECAT-345%2F400-24292F?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-3.59%2F4.00-24292F?style=flat-square)
+<br>
 
-</div>
+
+> **🥇 All-Pakistan Rank #1** · LAT (Law Aptitude Test)
+> 
+> **📊 99.71st Percentile** · NAT (NUST Admission Test)
+> 
+> **🎯 345 / 400** · ECAT Score
+> 
+> **📈 3.59 / 4.00** · CGPA @ SEECS, NUST
 
 ### Stack
 
@@ -37,12 +45,18 @@ I like building complete software, not assignments — something isn't done unti
 ![C++](https://img.shields.io/badge/C++-24292F?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-24292F?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-24292F?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-24292F?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-24292F?style=flat-square&logo=css3&logoColor=white)
 
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-24292F?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-24292F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-24292F?style=flat-square&logo=mongodb&logoColor=white)
+
 **Web & Networking**
 
+![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-24292F?style=flat-square&logo=webrtc&logoColor=white)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-24292F?style=flat-square&logo=html5&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions_(MV3)-24292F?style=flat-square&logo=googlechrome&logoColor=white)
@@ -55,10 +69,11 @@ I like building complete software, not assignments — something isn't done unti
 
 **Tools**
 
+![Bash](https://img.shields.io/badge/Bash-24292F?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-24292F?style=flat-square&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292F?style=flat-square&logo=githubactions&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-24292F?style=flat-square)
-![PowerShell](https://img.shields.io/badge/PowerShell-24292F?style=flat-square&logo=powershell&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog_HDL-24292F?style=flat-square)
 
 ### Activity
